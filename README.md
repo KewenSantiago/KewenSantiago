@@ -41,8 +41,3 @@
  📊 <b>&lt;Hello, ONE!&gt; </b> - Programa da Oracle + Alura com especialização em Back-end<br>
  
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KewenSantiago&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KewenSantiago&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" height="135" alt="languages graph"  />
-</div>
