@@ -36,6 +36,6 @@
 
 
 <div align="left">
- 📊 <b>&lt;Hello, ONE!&gt; </b> - Programa da Oracle + Alura com especialização em Back-end<br>
+ 📊 <b>&lt;Hello, ONE!&gt; </b> - Programa da Oracle + Alura com especialização em Back-end<br>🎓 Acadêmico de <b>Análise e Desenvolvimento de Sistemas</b><br>
  
 </div>
